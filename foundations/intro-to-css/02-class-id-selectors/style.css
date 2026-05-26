@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+.odd-numbered {
+
+  background-color: lightpink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.extended {
+
+  font-size: 24px;
+
+}
+#second {
+
+  color: blue;
+  font-size: 36px;
+
+}
+
+#fourth {
+
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+
+}
